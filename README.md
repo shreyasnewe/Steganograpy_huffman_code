@@ -1,7 +1,4 @@
 
-Here’s a complete and well-structured README.md for your Huffman Steganography project:
-
----
 
 # 🔐 Huffman Steganography Tool (Python + C++)
 
